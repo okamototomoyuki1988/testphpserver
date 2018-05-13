@@ -1,2 +1,2 @@
 # testphpserver
-Codeigniter と MySQLを使ったサーバーのテストです。
+CodeIgniter と MySQLを使ったサーバーのテストです。
